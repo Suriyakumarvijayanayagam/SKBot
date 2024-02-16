@@ -18,7 +18,7 @@
 ## 🔍 Preview 
 
 ### Quick preview
-![Screenshot gif](https://user-images.githubusercontent.com/6497827/58411958-1dcc8000-8093-11e9-8aeb-5747efe10266.gif)
+![Screenshot gif]()
 
 
 
