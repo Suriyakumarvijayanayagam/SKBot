@@ -18,7 +18,8 @@
 ## 🔍 Preview 
 
 ### Quick preview
-![Demo](https://github.com/Suriyakumarvijayanayagam/Tars/blob/main/Tars.mp4)
+[![Demo Video](https://github.com/Suriyakumarvijayanayagam/Tars/blob/main/Tars.mp4)](https://github.com/Suriyakumarvijayanayagam/Tars/blob/main/Tars.mp4)
+
 
 
 
