@@ -18,7 +18,7 @@
 ## 🔍 Preview 
 
 ### Quick preview
-![Screenshot gif]()
+![Screenshot gif](https://github.com/Suriyakumarvijayanayagam/Tars/blob/main/Tars.mp4)
 
 
 
