@@ -32,8 +32,8 @@
 
 ## ⬇ Downloads ⬇
 
-macOS | Windows | Linux
------------------| ---| ---|
+macOS - Windows - Linux
+|-----------------|
 [Download Latest Release](https://github.com/Suriyakumarvijayanayagam/Tars/releases/tag/v1.0.0)
 
 ## Supported Platforms
